@@ -1,7 +1,7 @@
 # Web Scrapping with Beautiful Soup and Wptool API
 This project is about listing the Top 100 Universities in Nigeria and gathering information about them. The first data was extracted with [BeautifuSoup](https://pypi.org/project/beautifulsoup4/) package, from [Webometric Ranking table of 2020](https://www.theabusites.com/webometrics-ranking-2019/). This data include the list of the schools with their ranking and world ranking.
 
-The other data was extracted from each school wikipedia page, with the help of Wptools API. It includes information such chancellor and vice-chancellor of the school, if there is any. 
+The other data was extracted from each school wikipedia page, with the help of [Wptools API](https://pypi.org/project/wptools/). It includes information such chancellor and vice-chancellor of the school, if there is any. 
 
 ## Libraries/Package Required
 - Requests 
