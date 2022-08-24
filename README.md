@@ -16,6 +16,6 @@ The other data was extracted from each school wikipedia page, with the help of [
 ## Summary 
 The extraction from webometrics ranking using BeautifulSoup was successful.
 
-While manually getting the urls of each school from wikipedia, some schools such as `Federal University Kashere Gombe State`, has no wikipedia page, while some school has wikipedia page but no infobox. Due to some schools not having the required information needed, the JSON data was extracted with NaN as default value.
+While manually getting the urls of each school from wikipedia, some schools such as `Federal University Kashere Gombe State`, had no wikipedia page, while some school had wikipedia page but no infobox. As a result of some schools not having the required information needed, the JSON data was extracted with NaN as default value.
 
 Both datas from Beautilful soup extraction and wptools extraction was merged together and saved to a file top_100_universities_in_nigeria.csv
